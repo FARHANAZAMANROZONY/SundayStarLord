@@ -32,7 +32,7 @@ public class MethodType {
 		
 		//static method
 		public static void weeklyIncomeStatic(){
-			int calculateWeeklyIncome = hourlyIncome * 40;
+			int calculateWeeklyIncome = hourlyIncome * 45;
 			System.out.println("My Weekly Income = " + calculateWeeklyIncome);
 		}
 	}
